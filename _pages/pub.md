@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 55 [Journal](#journal-papers) and 45 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 55 [Journal](#journal-papers) and 47 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), **Springer**, Dec, 2021
@@ -120,6 +120,10 @@
 47. Y. Bi, H. Zhou, **W. Xu**, X. Shen, H. Zhao, [An efficient PMIPv6-based handoff scheme for urban vehicular networks](https://ieeexplore.ieee.org/abstract/document/7534784/), **IEEE transactions on intelligent transportation systems**, vol.17, no.12, pp.3613–3628, **2016**
 
 ## Conference Papers
+
+1. Y. Li, **W. Xu**, H.Wang, R. Li, Y. Qi, J, Guo, ‘Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching’, European Conference on Computer Vision (**ECCV**) 2024
+
+1. Y. Fan, **W. Xu**, H. Wang, F. Huo, J. Chen, S. Guo, ‘Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection’, European Conference on Computer Vision (**ECCV**) 2024
 
 1. H. Wang, P. Zheng, X. Han, **W. Xu**, R. Li, T. Zhang, FedNLR: Federated Learning with Neuron-wise Learning Rates, SIGKDD Conference on Knowledge Discovery and Data Mining, 2024
 
