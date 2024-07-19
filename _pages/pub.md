@@ -9,6 +9,8 @@
 
 ## Journal Papers
 
+1. S. Li, X. Lin, **W. Xu**, J. Li, `AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT', IEEE Transactions on Services Computing, 2024
+
 1. L. Wu, S. Guo, Y. Ding, J. Wang, **W. Xu**, Y. Zhan, K. Anne-Marie, Rethinking Personalized Client Collaboration in Federated Learning, IEEE Transactions on Mobile Computing, 2024
 
 1. J. Li, S. Guo, W. Liang, J. Wang, Q. Chen, **W. Xu**, K. Wei, X. Jia, Mobility-Aware Utility Maximization in Digital Twin-Enabled Serverless Edge Computing, IEEE Transactions on Computers, 2024
