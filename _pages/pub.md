@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 55 [Journal](#journal-papers) and 47 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 57 [Journal](#journal-papers) and 47 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), **Springer**, Dec, 2021
@@ -9,7 +9,9 @@
 
 ## Journal Papers
 
-1. S. Li, X. Lin, **W. Xu**, J. Li, `AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT', IEEE Transactions on Services Computing, 2024
+1. S. Li, X. Lin, **W. Xu**, J. Li, AI-Generated Content-Based Edge Learning for Fast and Efficient Few-Shot Defect Detection in IIoT, IEEE Transactions on Services Computing, 2024
+
+1. Z. Zhuang, J. Chen, **W. Xu**, Q. Qi, S. Guo, J. Wang, L. Lu, H. Yang, J. Liao, DECC: Delay-Aware Edge-Cloud Collaboration for Accelerating DNN Inference, IEEE Transactions on Emerging Topics in Computing, 2024
 
 1. L. Wu, S. Guo, Y. Ding, J. Wang, **W. Xu**, Y. Zhan, K. Anne-Marie, Rethinking Personalized Client Collaboration in Federated Learning, IEEE Transactions on Mobile Computing, 2024
 
