@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 58 [Journal](#journal-papers) and 47 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 60 [Journal](#journal-papers) and 48 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), **Springer**, Dec, 2021
@@ -8,6 +8,10 @@
   - X. Shen,**W. Xu**, H. Zhou, [System and Method for Automotive Wi-Fi Access and Connection](https://patents.google.com/patent/US11026072B2/en), Authorized in US and China, Application number:  PCT/CA2017/051292 (US) CN110024476A (CHN)
 
 ## Journal Papers
+
+1. Y. Liu, **W. Xu**, H. Wang, Y. Qi, R. Li, S. Guo, SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning, **IEEE Transactions on Parallel and Distributed Systemsm**, 2024
+
+1. Y. Pan, X. Wang, Z. Xu, N. Cheng, **W. Xu**, J. Zhang, GNN-Empowered Effective Partial Observation MARL Method for AoI Management in Multi-UAV Network, **IEEE Internet of Things Journal**, 2024
 
 1. Q. Mao, X. Lin, **W. Xu**, Y. Qi, X. Su, G. Li, J. Li, FeCoGraph: Label-aware Federated Graph Contrastive Learning for Few-shot Network Intrusion Detection, **IEEE Transactions on Parallel and Distributed Systems**, 2024
 
@@ -126,6 +130,8 @@
 47. Y. Bi, H. Zhou, **W. Xu**, X. Shen, H. Zhao, [An efficient PMIPv6-based handoff scheme for urban vehicular networks](https://ieeexplore.ieee.org/abstract/document/7534784/), **IEEE transactions on intelligent transportation systems**, vol.17, no.12, pp.3613–3628, **2016**
 
 ## Conference Papers
+
+1. Y. FAN, **W. Xu**, H. Wang, J. Liu, S. Guo, Detached and Interactive Multimodal Learning, **ACM MM** 2024
 
 1. Y. Li, **W. Xu**, H.Wang, R. Li, Y. Qi, J, Guo, ‘Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching’, European Conference on Computer Vision (**ECCV**) 2024
 
