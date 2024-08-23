@@ -5,6 +5,63 @@
             <ol class="bibliography">
                 <li>
                     <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ACM MM’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">C<sup>2</sup> Detached and Interactive Multimodal Learning
+                            </div>
+                            <div class="author"> Yunfeng FAN, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Junhong Liu, Song Guo' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In Proceedings of the 31st ACM International Conference on Multimedia</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2407.19514" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Recently, Multimodal Learning (MML) has gained significant interest as it compensates for single-modality limitations through comprehensive complementary information within multimodal data. However, traditional MML methods generally use the joint learning framework with a uniform learning objective that can lead to the modality competition issue, where feedback predominantly comes from certain modalities, limiting the full potential of others. In response to this challenge, this paper introduces DI-MML, a novel detached MML framework designed to learn complementary information across modalities under the premise of avoiding modality competition. Specifically, DI-MML addresses competition by separately training each modality encoder with isolated learning objectives. It further encourages cross-modal interaction via a shared classifier that defines a common feature space and employing a dimension-decoupled unidirectional contrastive (DUC) loss to facilitate modality-level knowledge transfer. Additionally, to account for varying reliability in sample pairs, we devise a certainty-aware logit weighting strategy to effectively leverage complementary information at the instance level during inference. Extensive experiments conducted on audio-visual, flow-image, and front-rear view datasets show the superior performance of our proposed method.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ECCV’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Personalized Federated Domain-Incremental Learning based on Adaptive Knowledge Matching
+                            </div>
+                            <div class="author"> Yichen Li, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Ruixuan Li, Yining Qi, Jingcai Guo' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>In European Conference on Computer Vision</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2407.05005" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>This paper focuses on Federated Domain-Incremental Learning (FDIL) where each client continues to learn incremental tasks where their domain shifts from each other. We propose a novel adaptive knowledge matching-based personalized FDIL approach (pFedDIL) which allows each client to alternatively utilize appropriate incremental task learning strategy on the correlation with the knowledge from previous tasks. More specifically, when a new task arrives, each client first calculates its local correlations with previous tasks. Then, the client can choose to adopt a new initial model or a previous model with similar knowledge to train the new task and simultaneously migrate knowledge from previous tasks based on these correlations. Furthermore, to identify the correlations between the new task and previous tasks for each client, we separately employ an auxiliary classifier to each target classification model and propose sharing partial parameters between the target classification model and the auxiliary classifier to condense model parameters. We conduct extensive experiments on several datasets of which results demonstrate that pFedDIL outperforms state-of-the-art methods by up to 14.35\% in terms of average accuracy of all tasks.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ECCV’24</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Overcome Modal Bias in Multi-modal Federated Learning via Balanced Modality Selection
+                            </div>
+                            <div class="author"> Yunfeng Fan, Wenchao Xu, Haozhang Wang, and <span
+                                    class="more-authors" title="click to view 3 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '3 more authors' ? 'Fushuo Huo, Jinyu Chen, Song Guo' : '3 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">3 more authors</span> </div>
+                            <div class="periodical"> <em>In European Conference on Computer Vision</em>, 2024 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2401.00403v2" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Selecting proper clients to participate in each federated learning (FL) round is critical to effectively harness a broad range of distributed data. Existing client selection methods simply consider to mine the distributed uni-modal data, yet, their effectiveness may diminish in multi-modal FL (MFL) as the modality imbalance problem not only impedes the collaborative local training but also lead to a severe global modality-level bias. We empirically reveal that local training with a certain single modality may contribute more to the global model than training with all local modalities. To effectively exploit the distributed multimodalities, we propose a novel Balanced Modality Selection framework for MFL (BMSFed) to overcome the modal bias. On the one hand, we introduce a modal enhancement loss during local training to alleviate local imbalance based on the aggregated global prototypes. On the other hand, we propose the modality selection aiming to select subsets of local modalities with great diversity and achieving global modal balance simultaneously. Our extensive experiments on audio-visual, colored-gray, and front-back datasets showcase the superiority of BMSFed over baselines and its effectiveness in multi-modal data exploitation.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
                         <div class="col-sm-2 abbr"><abbr class="badge">CVPR’24</abbr></div>
                         <div class="col-sm-8">
                             <div class="title">C<sup>2</sup> KD: Bridging the Modality Gap for Cross-Modal Knowledge Distillation

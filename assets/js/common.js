@@ -92,6 +92,8 @@ document.addEventListener("DOMContentLoaded", function() {
       "ECML PKDD": "#6633CC",
       "Proc. IEEE": "#CC3366",
       "AAAI" : "#66FFCC",
+      "ECCV" : "#FF99CC",
+      "ACM MM" : "#FFCC99"
     };
 
     abbrElements.forEach(element => {
