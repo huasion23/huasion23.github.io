@@ -1,5 +1,5 @@
 # 📝 Full Publications
-**Publication Index: 1 Monograph, 1 Patent, 60 [Journal](#journal-papers) and 48 [Conference](#conference-papers) papers.**
+**Publication Index: 1 Monograph, 1 Patent, 66 [Journal](#journal-papers) and 52 [Conference](#conference-papers) papers.**
 <!-- # 📝 Publications是一个片段标识符（fragment identifier） -->
 ## Book
   - **W. Xu**, X. Shen, H. Zhou, [Internet Access in Vehicular Networks](https://link.springer.com/content/pdf/10.1007/978-3-030-88991-3.pdf), **Springer**, Dec, 2021
@@ -9,6 +9,18 @@
 
 ## Journal Papers
 
+1. Y. Zhang, **W. Xu**, A. Jin, M. Li, P. Ma, L. Jiang, S. Gao, `Coupling-Informed Data-Driven Scheme for Joint Angle and Frequency Estimation in Uniform Linear Array with Mutual Coupling Present', **IEEE Transactions on Antennas and Propagation**, 2024
+
+1. X. Yuan, N. Li, K. Wei, **W. Xu**, Q. Chen, H. Chen, S. Guo, `Mobility and Cost Aware Inference Accelerating Algorithm for Edge Intelligence', **IEEE Transactions on Mobile Computing**, 2024
+
+1. Y. Zhang, **W. Xu**, A. Jin, M. Li, P. Yuan, L. Jiang, S. Gao, `A Tensor-Based Data-Driven Approach for Multidimensional Harmonic Retrieval and Its Application for MIMO Channel Sounding', **IEEE Internet of things journal**, 2024
+
+1. J. Zhu, H. Zheng, **W. Xu**, H. Wang, Z. He, Y. Liu, S. Wang, Q. Sun, `Harmonizing Global and Local Class Imbalance for Federated Learning', **IEEE Transactions on Mobile Computing**, 2024
+
+1. J. Zhang, S. Guo, X. Ma, **W. Xu**, Q. Zhou, J. GUo, Z. Hong, J. Shan, `Model Decomposition and Reassembly for Purified Knowledge Transfer in Personalized Federated Learning', **IEEE Transactions on Mobile Computing**, 2024 
+
+1. M. Zhi, Y. Bi, L. Cai, **W. Xu**, H. Wang, T. Xiang, Q. He, `Knowledge-Aware Parameter Coaching for Communication-Efficient Personalized Federated Learning in Mobile Edge Computing', **IEEE Transactions on Mobile Computing**, 2024
+   
 1. Y. Liu, **W. Xu**, H. Wang, Y. Qi, R. Li, S. Guo, SR-FDIL: Synergistic Replay for Federated Domain-Incremental Learning, **IEEE Transactions on Parallel and Distributed Systemsm**, 2024
 
 1. Y. Pan, X. Wang, Z. Xu, N. Cheng, **W. Xu**, J. Zhang, GNN-Empowered Effective Partial Observation MARL Method for AoI Management in Multi-UAV Network, **IEEE Internet of Things Journal**, 2024
@@ -130,6 +142,13 @@
 47. Y. Bi, H. Zhou, **W. Xu**, X. Shen, H. Zhao, [An efficient PMIPv6-based handoff scheme for urban vehicular networks](https://ieeexplore.ieee.org/abstract/document/7534784/), **IEEE transactions on intelligent transportation systems**, vol.17, no.12, pp.3613–3628, **2016**
 
 ## Conference Papers
+
+1. Y. Xiao, H. Wang, Z. Zhu, W. Liu, **W. Xu**, R. Li, `AWSSS: Adaptive Weighted Statistical Space Smoothing for Regression With Imbalance Data', **IEEE HPCC** 2024
+
+1. Y. Fan, **W. Xu**, H. Wang, S. Guo, `Cross-modal Representation Flattening for Multi-modal Domain Generalization', **NeurIPS** 2024
+
+1. Y. Quan, N. Cheng, X. Wang, Z. Yin, **W. Xu**, D. Wang, `ALWNN: Automatic Modulation Classification via Adaptive Lightweight Wavelet Neural Network', **IEEE Globecom** 2024
+
 
 1. Y. FAN, **W. Xu**, H. Wang, J. Liu, S. Guo, Detached and Interactive Multimodal Learning, **ACM MM** 2024
 
