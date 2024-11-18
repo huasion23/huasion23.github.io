@@ -204,45 +204,47 @@
 
 12. L. Wu, S. Guo, Y. Liu, Z. Hong, Y. Zhan, **W. Xu**, [Sustainable Federated Learning with Long-term Online VCG Auction Mechanism](https://ieeexplore.ieee.org/abstract/document/9912254/), In **Proc. IEEE ICDCS**, pp. 895-90, **2022**
 
-13. Z. Ren, N. Cheng, R. Sun, X. Wang, N. Lu, **W. Xu**, [SigT: An Efficient End-To-End MIMO-OFDM Receiver Framework Based on Transformer](https://ieeexplore.ieee.org/abstract/document/10019001/), accepted in **Proc. IEEE ICCSPA"22**
+13. H. Wan, **W. Xu**, N. Cheng, Z. Yin, ‘Fusing Onboard Modalities with V2V Information for Autonomous Driving’, **VTC** 2022 Spring
 
-14. Y. Zhu, C. Hua, D. Zhong, **W. Xu**, [Design of Low-latency Overlay Protocol for Blockchain Delivery Networks](https://ieeexplore.ieee.org/abstract/document/9771715/), In 2022 IEEE Wireless Communications and Networking Conference (**WCNC**), pp. 1182-1187, **2022**.
+14. Z. Ren, N. Cheng, R. Sun, X. Wang, N. Lu, **W. Xu**, [SigT: An Efficient End-To-End MIMO-OFDM Receiver Framework Based on Transformer](https://ieeexplore.ieee.org/abstract/document/10019001/), accepted in **Proc. IEEE ICCSPA"22**
 
-15. X. Ma, J. Zhang, S. Guo, **W. Xu**, [Layer-wised Model Aggregation for Personalized Federated Learning](http://openaccess.thecvf.com/content/CVPR2022/html/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.html), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 10092-10101, **2022**.
+15. Y. Zhu, C. Hua, D. Zhong, **W. Xu**, [Design of Low-latency Overlay Protocol for Blockchain Delivery Networks](https://ieeexplore.ieee.org/abstract/document/9771715/), In 2022 IEEE Wireless Communications and Networking Conference (**WCNC**), pp. 1182-1187, **2022**.
 
-16. J. Zhang, S. Guo, X. Ma, H. Wang **W. Xu**, F. Wu, [Parameterized Knowledge Transfer for Personalized Federated Learning](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html), Advances in Neural Information Processing Systems (**NeurIPS**) 34 (**2021**).
+16. X. Ma, J. Zhang, S. Guo, **W. Xu**, [Layer-wised Model Aggregation for Personalized Federated Learning](http://openaccess.thecvf.com/content/CVPR2022/html/Ma_Layer-Wised_Model_Aggregation_for_Personalized_Federated_Learning_CVPR_2022_paper.html), In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), pp. 10092-10101, **2022**.
 
-17. H. Dong, C. Hua, L. Liu, **W. Xu**, [Towards Integrated Terrestrial-Satellite Network via Intelligent Reflecting Surface](https://ieeexplore.ieee.org/abstract/document/9500640/), In **ICC** 2021-IEEE International Conference on Communications, pp. 1-6. IEEE, **2021**
+17. J. Zhang, S. Guo, X. Ma, H. Wang **W. Xu**, F. Wu, [Parameterized Knowledge Transfer for Personalized Federated Learning](https://proceedings.neurips.cc/paper_files/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html), Advances in Neural Information Processing Systems (**NeurIPS**) 34 (**2021**).
 
-18. **W. Xu**, H. Zhou, N. Cheng, N. Lu, L. Xu, M. Qin, S. Guo, [Autonomous Rate Control for Mobile Internet of Things: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9348835/), in **Proc. VTC-Fall 2020**,
+18. H. Dong, C. Hua, L. Liu, **W. Xu**, [Towards Integrated Terrestrial-Satellite Network via Intelligent Reflecting Surface](https://ieeexplore.ieee.org/abstract/document/9500640/), In **ICC** 2021-IEEE International Conference on Communications, pp. 1-6. IEEE, **2021**
+
+19. **W. Xu**, H. Zhou, N. Cheng, N. Lu, L. Xu, M. Qin, S. Guo, [Autonomous Rate Control for Mobile Internet of Things: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/9348835/), in **Proc. VTC-Fall 2020**,
  
-19. **W. Xu**, H. Zhou, T. Yang, H. Wu, S. Guo, [Proactive Link Adaptation for Marine Internet of Things in TV White Space](https://ieeexplore.ieee.org/abstract/document/9148978/), in **Proc. ICC 2020**
+20. **W. Xu**, H. Zhou, T. Yang, H. Wu, S. Guo, [Proactive Link Adaptation for Marine Internet of Things in TV White Space](https://ieeexplore.ieee.org/abstract/document/9148978/), in **Proc. ICC 2020**
 
-20. X. Yang, C. Hua, P. Gu, **W. Xu**, [Joint Power Allocation for Non-orthogonal Multiple Access in Wireless Backhaul Networks](https://ieeexplore.ieee.org/abstract/document/9103486/), in **Proc. ICFC 2020**
+21. X. Yang, C. Hua, P. Gu, **W. Xu**, [Joint Power Allocation for Non-orthogonal Multiple Access in Wireless Backhaul Networks](https://ieeexplore.ieee.org/abstract/document/9103486/), in **Proc. ICFC 2020**
 
-21. Z. Xu, Y. Zhang, C. Fu, L. Liu, C. Chen, **W. Xu**, S. Guo, [Back Shape Measurement and Three-Dimensional Reconstruction of Spinal Shape Using One Kinect Sensor](https://ieeexplore.ieee.org/abstract/document/9098481/), in **Proc. ISBI 2020**
+22. Z. Xu, Y. Zhang, C. Fu, L. Liu, C. Chen, **W. Xu**, S. Guo, [Back Shape Measurement and Three-Dimensional Reconstruction of Spinal Shape Using One Kinect Sensor](https://ieeexplore.ieee.org/abstract/document/9098481/), in **Proc. ISBI 2020**
 
-22. **W. Xu**, S. Guo, H. Zhou, S. Ma, M. Wu, [A Queueing Analysis of the Opportunistic Vehicle-to-Vehicle Communica- tion](https://ieeexplore.ieee.org/abstract/document/9014170/), in **Proc. Globecom 2019**
+23. **W. Xu**, S. Guo, H. Zhou, S. Ma, M. Wu, [A Queueing Analysis of the Opportunistic Vehicle-to-Vehicle Communica- tion](https://ieeexplore.ieee.org/abstract/document/9014170/), in **Proc. Globecom 2019**
 
-23. **W. Xu**, C. Ma, S. Guo, H. Zhou [Efficient Rate Adaptation for 802.11af TVWS Vehicular Access via Deep Learning](https://ieeexplore.ieee.org/abstract/document/9014062/), in **Proc. Globecom 2019**
+24. **W. Xu**, C. Ma, S. Guo, H. Zhou [Efficient Rate Adaptation for 802.11af TVWS Vehicular Access via Deep Learning](https://ieeexplore.ieee.org/abstract/document/9014062/), in **Proc. Globecom 2019**
 
-24. H. Cai, C. Hua, **W. Xu** [Design of Active Learning Framework for Collaborative Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/8928043/), in **Proc. WCSP 2019**
+25. H. Cai, C. Hua, **W. Xu** [Design of Active Learning Framework for Collaborative Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/8928043/), in **Proc. WCSP 2019**
 
-25. **W. Xu**, H. Wu, J. Chen, H. Zhou, N. Cheng, X. Shen, [ViFi: Vehicle-to-Vehicle Assisted Traffic Offloading via Roadside WiFi Networks](https://ieeexplore.ieee.org/abstract/document/8647650/), in **Proc. Globecom 2018**, pp.1–6
+26. **W. Xu**, H. Wu, J. Chen, H. Zhou, N. Cheng, X. Shen, [ViFi: Vehicle-to-Vehicle Assisted Traffic Offloading via Roadside WiFi Networks](https://ieeexplore.ieee.org/abstract/document/8647650/), in **Proc. Globecom 2018**, pp.1–6
 
-26. H. Wu, **W. Xu**, J. Chen, L. Wang, X. Shen, [Matching-Based Content Caching in Heterogeneous Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/8647134/), in **Proc. Globecom 2018**, pp.1–6, Best Paper Award
+27. H. Wu, **W. Xu**, J. Chen, L. Wang, X. Shen, [Matching-Based Content Caching in Heterogeneous Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/8647134/), in **Proc. Globecom 2018**, pp.1–6, Best Paper Award
 
-27. J. Chen, **W. Xu**, N. Cheng, H. Wu, S. Zhang, X. Shen, [Reinforcement Learning Policy for Adaptive Edge Caching in Heterogeneous Vehicular Network](https://ieeexplore.ieee.org/abstract/document/8647483/), in **Proc. Globecom 2018**, pp.1–6
+28. J. Chen, **W. Xu**, N. Cheng, H. Wu, S. Zhang, X. Shen, [Reinforcement Learning Policy for Adaptive Edge Caching in Heterogeneous Vehicular Network](https://ieeexplore.ieee.org/abstract/document/8647483/), in **Proc. Globecom 2018**, pp.1–6
 
-28. W. Shi, J. Li, **W. Xu**, H. Zhou, N. Zhang X. Shen, [3D drone-cell deployment optimization for drone assisted radio access networks](https://ieeexplore.ieee.org/abstract/document/8330438/), in **Proc. ICCC 2017**, pp.1–6
+29. W. Shi, J. Li, **W. Xu**, H. Zhou, N. Zhang X. Shen, [3D drone-cell deployment optimization for drone assisted radio access networks](https://ieeexplore.ieee.org/abstract/document/8330438/), in **Proc. ICCC 2017**, pp.1–6
 
-29. **W. Xu**, H. Zhou, W. Shi, F. Lyu, X. Shen, [Throughput analysis of in-vehicle internet access via on-road wifi access points](https://ieeexplore.ieee.org/abstract/document/8288271/), in **Proc. VTC-Fall 2017**, , pp.1–5
+30. **W. Xu**, H. Zhou, W. Shi, F. Lyu, X. Shen, [Throughput analysis of in-vehicle internet access via on-road wifi access points](https://ieeexplore.ieee.org/abstract/document/8288271/), in **Proc. VTC-Fall 2017**, , pp.1–5
 
-30. **W. Xu**, Y. Wu, H. Zhou, Y. Bi, N. Cheng, X. Shen, [Ti-Fi: Terminal-to-terminal communication incorporated Wi-Fi offloading](https://ieeexplore.ieee.org/abstract/document/7752670/), in **Proc. WCSP 2016**, pp.1–5
+31. **W. Xu**, Y. Wu, H. Zhou, Y. Bi, N. Cheng, X. Shen, [Ti-Fi: Terminal-to-terminal communication incorporated Wi-Fi offloading](https://ieeexplore.ieee.org/abstract/document/7752670/), in **Proc. WCSP 2016**, pp.1–5
 
-31. **W. Xu**, C. Hua, A. Huang, [Channel assignment and user association game in dense 802.11 wireless networks](https://ieeexplore.ieee.org/abstract/document/5962628/), in **Proc. ICC 2011**, pp.1–5
+32. **W. Xu**, C. Hua, A. Huang, [Channel assignment and user association game in dense 802.11 wireless networks](https://ieeexplore.ieee.org/abstract/document/5962628/), in **Proc. ICC 2011**, pp.1–5
 
-32. **W. Xu**, C. Hua, A. Huang, [A game theoretical approach for load balancing user association in 802.11 wireless networks](https://ieeexplore.ieee.org/abstract/document/5683224/), in **Proc. Globecom 2010**, pp.1–5
+33. **W. Xu**, C. Hua, A. Huang, [A game theoretical approach for load balancing user association in 802.11 wireless networks](https://ieeexplore.ieee.org/abstract/document/5683224/), in **Proc. Globecom 2010**, pp.1–5
 
-33. X. Ding, C. Hua, **W. Xu**, A. Huang, [A measurement study of channel dynamics in wireless mesh networks](https://ieeexplore.ieee.org/abstract/document/5371547/), in **Proc. WCSP 2009**
+34. X. Ding, C. Hua, **W. Xu**, A. Huang, [A measurement study of channel dynamics in wireless mesh networks](https://ieeexplore.ieee.org/abstract/document/5371547/), in **Proc. WCSP 2009**
 
