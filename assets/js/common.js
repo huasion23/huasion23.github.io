@@ -93,7 +93,8 @@ document.addEventListener("DOMContentLoaded", function() {
       "Proc. IEEE": "#CC3366",
       "AAAI" : "#66FFCC",
       "ECCV" : "#FF99CC",
-      "ACM MM" : "#FFCC99"
+      "ACM MM" : "#FFCC99",
+      "ICLR": "#99CCFF"
     };
 
     abbrElements.forEach(element => {
