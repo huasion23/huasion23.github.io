@@ -143,6 +143,8 @@
 
 ## Conference Papers
 
+1. F Huo, **W Xu**, Z Zhang, H Wang, Z Chen, P Zhao, `Self-introspective decoding: Alleviating hallucinations for large vision-language models', International Conference on Learning Representations (**ICLR**) 2025
+
 1. Y. Xiao, H. Wang, Z. Zhu, W. Liu, **W. Xu**, R. Li, `AWSSS: Adaptive Weighted Statistical Space Smoothing for Regression With Imbalance Data', **IEEE HPCC** 2024
 
 1. Y. Fan, **W. Xu**, H. Wang, S. Guo, `Cross-modal Representation Flattening for Multi-modal Domain Generalization', **NeurIPS** 2024
