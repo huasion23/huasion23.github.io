@@ -5,6 +5,67 @@
             <ol class="bibliography">
                 <li>
                     <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">WWW'25</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Privacy-Friendly Cross-Domain Recommendation via Distilling User-irrelevant Information
+                            </div>
+                            <div class="author"> Cheng Wang, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Wei Liu, Ruixuan Li' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>The 2025 ACM Web Conference</em>, 2025 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://openreview.net/forum?id=yuzbzzekdB#discussion" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Privacy-preserving Cross-Domain Recommendation (CDR) has been extensively studied to address the cold-start problem using auxiliary source domains while simultaneously protecting sensitive information. However, existing privacy-preserving CDR methods rely heavily on transferring sensitive user embeddings or behaviour logs, which leads to adopt privacy methods to distort the data patterns before transferring it to the target domain. The distorted information can compromise overall performance during the knowledge transfer process. To overcome these challenges, our approach differs from existing privacy-preserving methods that focus on safeguarding user-sensitive information. Instead, we concentrate on distilling transferable knowledge from insensitive item embeddings, which we refer to as \textbf{prototypes}. Specifically, we propose a conditional model inversion mechanism to accurately distill prototypes for individual users. We have designed a new data format and corresponding learning paradigm for distilling transferable prototypes from traditional recommendation models using model inversion. These prototypes facilitate bridging the domain shift between distinct source and target domains in a privacy-friendly manner. Additionally, they enable the identification of top-k users in the target domain to substitute for cold-start users prediction. We conduct extensive experiments across large real-world datasets, and the results substantiate the effectiveness of PFCDR.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">ICLR'25</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">One-for-All Few-Shot Anomaly Detection via Instance-Induced Prompt Learning
+                            </div>
+                            <div class="author"> Wenxi Lv, Qinliang Su, Wenchao Xu </div>
+                            <div class="periodical"> <em>The Thirteenth International Conference on Learning Representations</em>, 2025 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://openreview.net/forum?id=Zzs3JwknAY" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Anomaly detection methods under the 'one-for-all' paradigm aim to develop a unified model capable of detecting anomalies across multiple classes. However, these approaches typically require a large number of normal samples for model training, which may not always be feasible in practice. Few-shot anomaly detection methods can address scenarios with limited data but often require a tailored model for each class, struggling within the 'one-for-one' paradigm. In this paper, we first proposed the one-for-all few-shot anomaly detection method with the assistance of vision-language model. Different from previous CLIP-based methods learning fix prompts for each class, our method learn a class-shared prompt generator to adaptively generate suitable prompt for each instance. The prompt generator is trained by aligning the prompts with the visual space and utilizing guidance from general textual descriptions of normality and abnormality. Furthermore, we address the mismatch problem of the memory bank within one-for-all paradigm. Extensive experimental results on MVTec and VisA demonstrate the superiority of our method in few-shot anomaly detection task under the one-for-all paradigm.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">AAAI'25</abbr></div>
+                        <div class="col-sm-8">
+                            <div class="title">Boosting Fine-Grained Visual Anomaly Detection with Coarse-Knowledge-Aware Adversarial Learning
+                            </div>
+                            <div class="author"> Qingqing Fang, Qinliang Su, Wenxi Lv, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Wenchao Xu, Jianxing Yu' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>The 39th Annual AAAI Conference on Artificial Intelligence</em>, 2025 </div>
+                            <div class="periodical"></div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="#" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>Many unsupervised visual anomaly detection methods train an auto-encoder to reconstruct normal samples and then leverage the reconstruction error map to detect and localize the anomalies. However, due to the powerful modeling and generalization ability of neural networks, some anomalies can also be well reconstructed, resulting in unsatisfactory detection and localization accuracy. In this paper, a small coarsely-labeled anomaly dataset is first collected. Then, a coarse-knowledge-aware adversarial learning method is developed to align the distribution of reconstructed features with that of normal features. The alignment can effectively suppress the auto-encoder's reconstruction ability on anomalies and thus improve the detection accuracy. Considering that anomalies often only occupy very small areas in anomalous images, a patch-level adversarial learning strategy is further developed. Although no patch-level anomalous information is available, we rigorously prove that by simply viewing any patch features from anomalous images as anomalies, the proposed knowledge-aware method can also align the distribution of reconstructed patch features with the normal ones. Experimental results on four medical datasets and an industrial dataset demonstrate the effectiveness of our method in improving the detection and localization performance.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
                         <div class="col-sm-2 abbr"><abbr class="badge">ICLR'25</abbr></div>
                         <div class="col-sm-8">
                             <div class="title">Self-introspective decoding: Alleviating hallucinations for large vision-language models
