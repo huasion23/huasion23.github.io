@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenchao Xu"
-description              : "Assistant Professor at The Hong Kong University of Science and Technology"
+description              : "Assistant Professor at the Hong Kong University of Science and Technology"
 repository               : "huasion23/huasion23.github.io"
 # repository               : "zhengpeirong/zhengpeirong.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,8 +25,8 @@ author:
   name             : "Wenchao Xu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
-  location         : "Clear Water Bay, Kowloon, Hong Kong"
-  employer         : "HKUST"
+  location         : "Clear Water Bay"
+  employer         : "Hong Kong"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xaTK57QAAAAJ"
   email            : "wenchaoxu@ust.hk"
