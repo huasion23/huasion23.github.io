@@ -5,6 +5,47 @@
             <ol class="bibliography">
                 <li>
                     <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">INFOCOM’26</abbr></div>
+                        <div id="chen2024otas" class="col-sm-8">
+                            <div class="title">HALO: Semantic-Aware Distributed LLM Inference in Lossy Edge Network
+                            </div>
+                            <div class="author">Peirong Zheng, Wenchao Xu, Haozhao Wang, and <span
+                                    class="more-authors" title="click to view 2 more authors"
+                                    onclick=" var element=$(this); element.attr('title', ''); var more_authors_text=element.text() == '2 more authors' ? 'Jinyu Chen, Xuemin Sherman Shen' : '2 more authors'; var cursorPosition=0; var textAdder=setInterval(function(){ element.text(more_authors_text.substring(0, cursorPosition + 1)); if (++cursorPosition == more_authors_text.length){ clearInterval(textAdder); } }, '10'); ">2 more authors</span> </div>
+                            <div class="periodical"> <em>In Infocom 2026</em>, 2026 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://infocom2026.ieee-infocom.org/" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>The deployment of large language models’ (LLMs)
+                                inference at the edge can facilitate prompt service responsiveness
+                                while protecting user privacy. However, it is critically challenged
+                                by the resource constraints of a single edge node. Distributed
+                                inference has emerged to aggregate and leverage computational
+                                resources across multiple devices. Yet, existing methods typically
+                                require strict synchronization, which is often infeasible due to
+                                the unreliable network conditions. In this paper, we propose
+                                HALO , a novel framework that can boost the distributed LLM
+                                inference in lossy edge network. The core idea is to enable a
+                                relaxed yet effective synchronization by strategically allocating
+                                less critical neuron groups to unstable devices, thus avoiding
+                                the excessive waiting time incurred by delayed packets. HALO
+                                introduces three key mechanisms: (1) a semantic-aware predictor
+                                to assess the significance of neuron groups prior to activation. (2)
+                                a parallel execution scheme of neuron group loading during the
+                                model inference. (3) a load-balancing scheduler that efficiently
+                                orchestrates multiple devices with heterogeneous resources. Experimental
+                                results from a Raspberry Pi cluster demonstrate
+                                that HALO achieves a 3.41x end-to-end speedup for LLaMAseries
+                                LLMs under unreliable network conditions. It maintains
+                                performance comparable to optimal conditions and significantly
+                                outperforms the state-of-the-art in various scenarios.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
                         <div class="col-sm-2 abbr"><abbr class="badge">NIPS'25</abbr></div>
                         <div class="col-sm-8">
                             <div class="title">ChatbotID: Identifying Chatbots with Granger Causality Test
