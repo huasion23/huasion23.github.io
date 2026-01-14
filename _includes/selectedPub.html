@@ -1,6 +1,26 @@
 <div class="post">
     <article>
         <div class="publications">
+            <h2 class="bibliography">2026</h2>
+            <ol class="bibliography">
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">WWW'26</abbr></div>
+                        <div id="chen2024otas" class="col-sm-8">
+                            <div class="title">Self-Speculative Decoding for On-device MoE Acceleration
+                            </div>
+                            <div class="author">Peirong Zheng, Wenchao Xu, Haozhao Wang </div>
+                            <div class="periodical"> <em>In The Web Conference </em>, 2026 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://www2026.thewebconf.org/" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>The sparse mixture-of-experts (MoE) architecture is a promising backbone of foundation models for a wide range of applications in edge. However, deploying them locally presents a significant challenge to memory-constrained GPUs. Previous techniques utilize CPUs for expert offloading, which suffer from inaccurate expert prefetching and on-demand loading latency. To address these challenges, we propose self-speculative MoE (SS-MoE), an algorithmsystem co-design framework that facilitates inference under limited GPU memory. Our insight is that only a subset of routed experts, i.e., draft model, can still tackle easy tasks and generate draft tokens. Second, we deem GPU memory as the experts cache, and on-demand update it to mitigate IO overhead. Draft tokens from fewer routed experts are generated quickly, and these experts are then routed for verification. Additionally, we design a confidencebased policy to adaptively accept or verify draft tokens, which selectively decreases or increases the number of verification tokens of speculative decoding and achieves acceleration. Notably, under conservative verification, our approach preserves model accuracy and surpasses the decoding speed of the 4-bit quantized counterpart model. Under adaptive verification, our method significantly enhances decoding speed by 3.72x over state-of-the-art methods while maintaining nearly lossless accuracy.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ol>
             <h2 class="bibliography">2025</h2>
             <ol class="bibliography">
                 <li>
