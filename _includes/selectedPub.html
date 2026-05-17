@@ -5,6 +5,40 @@
             <ol class="bibliography">
                 <li>
                     <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">CVPR'26</abbr></div>
+                        <div id="peng2025omnivggt" class="col-sm-8">
+                            <div class="title">OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer
+                            </div>
+                            <div class="author">Haosong Peng, Hao Li, Yalun Dai, Yushi Lan, Yihang Luo, Tianyu Qi, Zhengshen Zhang, Yufeng Zhan, Junfeng Zhang, Wenchao Xu, Ziwei Liu </div>
+                            <div class="periodical"> <em>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition</em>, 2026 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://arxiv.org/abs/2511.10560" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>General 3D foundation models have started to lead the trend of unifying diverse vision tasks, yet most assume RGB-only inputs and ignore readily available geometric cues (e.g., camera intrinsics, poses, and depth maps). To address this issue, we introduce OmniVGGT, a novel framework that can effectively benefit from an arbitrary number of auxiliary geometric modalities during both training and inference. In our framework, a GeoAdapter is proposed to encode depth and camera intrinsics/extrinsics into a spatial foundation model. It employs zero-initialized convolutions to progressively inject geometric information without disrupting the foundation model's representation space. This design ensures stable optimization with negligible overhead, maintaining inference speed comparable to VGGT even with multiple additional inputs. Additionally, a stochastic multimodal fusion regimen is proposed, which randomly samples modality subsets per instance during training. This enables an arbitrary number of modality inputs during testing and promotes learning robust spatial representations instead of overfitting to auxiliary cues. Comprehensive experiments on monocular/multi-view depth estimation, multi-view stereo, and camera pose estimation demonstrate that OmniVGGT outperforms prior methods with auxiliary inputs and achieves state-of-the-art results even with RGB-only input. To further highlight its practical utility, we integrated OmniVGGT into vision-language-action (VLA) models. The enhanced VLA model by OmniVGGT not only outperforms the vanilla point-cloud-based baseline on mainstream benchmarks, but also effectively leverages accessible auxiliary inputs to achieve consistent gains on robotic tasks.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
+                        <div class="col-sm-2 abbr"><abbr class="badge">WWW'26</abbr></div>
+                        <div id="wang2026pfeddks" class="col-sm-8">
+                            <div class="title">pFedDKS: Detached Knowledge Sharing for Personalized Federated Learning
+                            </div>
+                            <div class="author">Haozhao Wang, Wenchao Xu, Jingzhi Wang, Yunfeng Fan, Xiaoquan Yi, Rui Zhang </div>
+                            <div class="periodical"> <em>In The Web Conference </em>, 2026 </div>
+                            <div class="periodical"> </div>
+                            <div class="links"> <a class="abstract btn btn-sm z-depth-0" role="button">ABS</a>
+                                <a href="https://doi.org/10.1145/3774904.3792203" class="btn btn-sm z-depth-0" role="button">HTML</a> </div>
+                            <div class="abstract hidden">
+                                <p>By allowing each client to refer to the knowledge from other clients while retaining their specific characteristics, partial knowledge sharing has become one of the main approaches to realizing personalized federated learning (pFL). Representative techniques of partial knowledge sharing propose sharing the feature extractor while customizing the classifier head of the neural network. Although such methods achieve great success, the underlying principle behind them remains yet to be comprehensively understood. A fundamental problem is whether it is really appropriate to fully share the feature extractor. Based on the theory of neural collapse, in this paper, we demonstrate both theoretically and empirically that the feature extractor should be partially shared rather than fully shared. More specifically, we identify a substantial inconsistency between the fused global feature representations and expected local feature representations, and thus it is necessary to preserve partially customized layers of the feature extractor for enhancing personalized representations. Based on this discovery, we further propose a novel method called pFedDKS which detaches the shared global knowledge and customized local knowledge by providing detached feature prototypes. Extensive experiments on various datasets and models show that pFedDKS outperforms state-of-the-arts.</p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="row">
                         <div class="col-sm-2 abbr"><abbr class="badge">WWW'26</abbr></div>
                         <div id="chen2024otas" class="col-sm-8">
                             <div class="title">Self-Speculative Decoding for On-device MoE Acceleration
